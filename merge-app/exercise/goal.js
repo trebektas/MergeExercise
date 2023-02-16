@@ -4,3 +4,4 @@ const goal = () => {
 };
 
 export default goal;
+//This page is for the goal of test

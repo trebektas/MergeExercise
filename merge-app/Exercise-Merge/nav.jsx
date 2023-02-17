@@ -2,9 +2,9 @@ import React from "react";
 
 const Nav = () => {
   return (
-    <ul>
-      <li>Register</li>
-    </ul>
+    <header className="logoAndNavbar">
+      <nav className="nav"></nav>
+    </header>
   );
 };
 

@@ -1,7 +1,5 @@
-const userTwo = () => {
-  console.log("User-II Code Block");
-
-  return <div>User-II Code Block</div>;
+const userThree = () => {
+  return <p>This is user-III's function for user-II</p>;
 };
 
-export default userTwo;
+export default userThree;
